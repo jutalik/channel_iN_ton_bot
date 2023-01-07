@@ -1,0 +1,25 @@
+{
+  "name": "channel_in_ton_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jutalik/channel_iN_ton_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jutalik/channel_iN_ton_bot/issues"
+  },
+  "homepage": "https://github.com/jutalik/channel_iN_ton_bot#readme",
+  "dependencies": {
+    "@grammyjs/conversations": "^1.1.0",
+    "dotenv": "^16.0.3",
+    "grammy": "^1.13.0",
+    "ton": "^13.3.0"
+  }
+}
